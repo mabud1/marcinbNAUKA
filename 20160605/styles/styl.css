@@ -1,0 +1,26 @@
+/*
+selektor {
+    position:absolute;
+
+
+
+
+}
+*/
+
+span {
+    color: #ffe44c;
+
+}
+
+
+.nasz-styl{
+    color:green;
+    background:red;
+}
+
+
+#nasz-identyfikator {
+    color:PINK;
+    font-size: 50px;
+}

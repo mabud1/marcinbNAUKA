@@ -1,0 +1,30 @@
+span{
+background-color: red;
+    color:white;
+
+
+}
+.right{
+    float: right;
+}
+.left{
+
+    float: left;
+}
+
+.element-plywajacy{
+    float: right;
+
+}
+
+div{
+
+    background-color: green;
+}
+.kontener{
+    background-color: yellow;
+
+    .clear{
+    clear:both
+}
+}
