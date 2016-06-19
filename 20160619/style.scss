@@ -1,0 +1,18 @@
+
+$kolor-firmowy : #ff1427;
+$czcionka-firmowa: Arial, sans-serif;
+
+$szerokosc-ramki: 5px;
+$styl-ramki:solid;
+header {
+
+  background-color: $kolor-firmowy;
+}
+
+footer {
+
+  color: $kolor-firmowy;
+font-family: $czcionka-firmowa;
+
+  margin: $;
+}
