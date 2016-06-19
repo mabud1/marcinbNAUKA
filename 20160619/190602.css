@@ -1,0 +1,44 @@
+.test:hover{
+    background-color: green;   transform: rotate(0deg);
+    border-radius:200px;
+    filter:blur(0);
+
+}
+
+
+
+}
+
+.test{
+    transition: background-color 2s linear 2s, border-radius 1s;
+
+    background-image: url(images/zdj1.jpg);
+    background-color: #ff0000;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 50%;
+    height:300px;
+    color:lightblue;
+
+    border-radius:1px 2px 3px 4px;
+    box-shadow:1px 2px 3px 4px;
+
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 30px;
+    font-family:Arial,sans-serif;
+    text-shadow:10px ;
+
+    line-height: 30px;
+    text-align:center;
+
+    border:solid 1px;
+    transform: rotate(15deg);
+    -webkit-filter: blur(10px);
+}
+.test h2 {
+    padding-top: 100px;
+
+}
+div{
+    display: block;
